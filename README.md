@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 A simple Java mini-project for managing bank accounts and transactions
 
